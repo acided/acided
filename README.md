@@ -13,15 +13,32 @@
 
 ---
 
+### 👤 About Me
+
+CS student from Kyrgyzstan building full-stack web apps and Telegram Mini Apps.
+Freelance developer with experience across the entire stack — from FastAPI backends to React frontends and VPS deployment.
+Interested in automation, game-related tooling, and ML.
+
+---
+
 ### 🛠 Stack
 
-```
-Backend     FastAPI · PostgreSQL · SQLAlchemy · Alembic
-Frontend    React · Vite · TypeScript
-Bots        python-telegram-bot · Telegram Mini Apps
-DevOps      Linux · Nginx · systemd · GitHub Actions · Docker
-ML          scikit-learn · EfficientNet · TensorFlow
-```
+![FastAPI](https://img.shields.io/badge/FastAPI-0f6e56?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-cc0000?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Vite](https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Telegram](https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Mini Apps](https://img.shields.io/badge/Telegram%20Mini%20Apps-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -37,20 +54,7 @@ ML          scikit-learn · EfficientNet · TensorFlow
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=acided&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&icon_color=1d9e75&text_color=c9d1d9&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acided&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=c9d1d9&langs_count=6" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=acided&theme=tokyonight&hide_border=true&background=0d1117&ring=9f7aea&fire=1d9e75&currStreakLabel=9f7aea" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=acided&bg_color=0d1117&color=9f7aea&line=1d9e75&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
