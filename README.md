@@ -4,10 +4,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:534AB7&height=200&section=header&text=acided&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 </a>
 
-[![Portfolio](https://img.shields.io/badge/acided.dev-%230f6e56?style=for-the-badge&logo=vercel&logoColor=white)](https://acided.dev)
-[![Telegram](https://img.shields.io/badge/@acided1-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/acided1)
-[![Upwork](https://img.shields.io/badge/Upwork-%236fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~acided)
-[![Profile Views](https://komarev.com/ghpvc/?username=acided&style=for-the-badge&color=534AB7)](https://github.com/acided)
+[![Portfolio](https://img.shields.io/badge/◈%20acided.dev-534AB7?style=for-the-badge&logoColor=white)](https://acided.dev)
+&nbsp;
+[![Telegram](https://img.shields.io/badge/@acided1-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/acided1)
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~acided)
+[![Profile Views](https://komarev.com/ghpvc/?username=acided&style=flat-square&color=7c6ee0)](https://github.com/acided)
 
 </div>
 
@@ -23,32 +24,23 @@ Interested in automation, game-related tooling, and ML.
 
 ### 🛠 Stack
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0f6e56?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-cc0000?style=for-the-badge&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7c6ee0?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-9f7aea?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-6d5fc7?style=for-the-badge&logo=django&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-b39ddb?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8475c7?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Vite](https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7c6ee0?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-9f7aea?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-6d5fc7?style=for-the-badge&logo=vite&logoColor=white)
 
-![Telegram](https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Mini Apps](https://img.shields.io/badge/Telegram%20Mini%20Apps-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-7c6ee0?style=for-the-badge&logo=telegram&logoColor=white)
+![Telegram Mini Apps](https://img.shields.io/badge/Mini%20Apps-9f7aea?style=for-the-badge&logo=telegram&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 📌 Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [acided.dev](https://github.com/acided/acided.dev) | Personal portfolio site | React · Vite · TS |
-| [auc-bot-frontend](https://github.com/acided/auc-bot-frontend) | Stalcraft auction tracker — Telegram Mini App | React · Vite |
-| [auc-bot-backend](https://github.com/acided/auc-bot-backend) | AUC BOT backend with clan tournament feature | FastAPI · PostgreSQL |
+![Linux](https://img.shields.io/badge/Linux-7c6ee0?style=for-the-badge&logo=linux&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-9f7aea?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-6d5fc7?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-8475c7?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
