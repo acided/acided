@@ -5,7 +5,8 @@
 [![Portfolio](https://img.shields.io/badge/◈%20acided.dev-534AB7?style=for-the-badge&logoColor=white)](https://acided.dev)
 
 [![Telegram](https://img.shields.io/badge/@acided1-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/acided1)
-[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~acided)
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b447e6bbec7b7e0e?mp_source=share)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acided/)
 [![Profile Views](https://komarev.com/ghpvc/?username=acided&style=flat-square&color=7c6ee0)](https://github.com/acided)
 
 </div>
@@ -14,7 +15,8 @@
 
 ### 👤 About Me
 
-Full-stack developer specializing in Python backends, Telegram Mini Apps, and React frontends. I build production-ready tools — from API design to VPS deployment. Available for work.
+Full-stack developer specializing in Python backends, Telegram Mini Apps, and React frontends.
+I build production-ready tools — from API design to VPS deployment. Available for work.
 
 ---
 
