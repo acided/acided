@@ -14,9 +14,7 @@
 
 ### 👤 About Me
 
-CS student from Kyrgyzstan building full-stack web apps and Telegram Mini Apps.
-Freelance developer with experience across the entire stack — from FastAPI backends to React frontends and VPS deployment.
-Interested in automation, game-related tooling, and ML.
+Full-stack developer specializing in Python backends, Telegram Mini Apps, and React frontends. I build production-ready tools — from API design to VPS deployment. Available for work.
 
 ---
 
