@@ -1,11 +1,9 @@
 <div align="center">
 
-<a href="https://acided.dev">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:534AB7&height=200&section=header&text=acided&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d2fa0,100:534AB7&height=200&section=header&text=acided&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 [![Portfolio](https://img.shields.io/badge/◈%20acided.dev-534AB7?style=for-the-badge&logoColor=white)](https://acided.dev)
-&nbsp;
+
 [![Telegram](https://img.shields.io/badge/@acided1-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/acided1)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~acided)
 [![Profile Views](https://komarev.com/ghpvc/?username=acided&style=flat-square&color=7c6ee0)](https://github.com/acided)
@@ -30,9 +28,10 @@ Interested in automation, game-related tooling, and ML.
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-b39ddb?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8475c7?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-7c6ee0?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-9f7aea?style=for-the-badge&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-6d5fc7?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-7c6ee0?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-9f7aea?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-6d5fc7?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-8475c7?style=for-the-badge&logo=vite&logoColor=white)
 
 ![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-7c6ee0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Telegram Mini Apps](https://img.shields.io/badge/Mini%20Apps-9f7aea?style=for-the-badge&logo=telegram&logoColor=white)
@@ -46,10 +45,10 @@ Interested in automation, game-related tooling, and ML.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=acided&theme=tokyonight&hide_border=true&background=0d1117&ring=9f7aea&fire=1d9e75&currStreakLabel=9f7aea" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=acided&theme=tokyonight&hide_border=true&background=0d1117&ring=9f7aea&fire=6d5fc7&currStreakLabel=9f7aea" />
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:0f6e56&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:3d2fa0&height=100&section=footer" width="100%"/>
 </div>
