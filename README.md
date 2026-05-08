@@ -15,8 +15,9 @@
 
 ### 👤 About Me
 
-Full-stack developer specializing in Python backends, Telegram Mini Apps, and React frontends.\n
-I build production-ready tools — from API design to VPS deployment.\nAvailable for work.
+Full-stack developer specializing in Python backends, Telegram Mini Apps, and React frontends.
+I build production-ready tools — from API design to VPS deployment.
+Available for work.
 
 ---
 
